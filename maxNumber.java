@@ -1,0 +1,5 @@
+package BootCamp;
+
+class maxNumber {
+
+}
